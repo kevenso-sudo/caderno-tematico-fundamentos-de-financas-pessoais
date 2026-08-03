@@ -1,4 +1,4 @@
-<center> Caderno Temático - Fundamentos de Finança Pessoais <center>
+<center>Caderno Temático - Fundamentos de Finança Pessoais<center>
 
 Sobre o projeto
 
