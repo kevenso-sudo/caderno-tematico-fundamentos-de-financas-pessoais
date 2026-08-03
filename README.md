@@ -1,4 +1,4 @@
-Caderno Temático — Fundamentos de Finanças Pessoais 
+<center>Caderno Temático — Fundamentos de Finanças Pessoais</center> 
 
 Sobre o projeto
 
@@ -6,6 +6,7 @@ Este repositório apresenta um caderno temático de estudos sobre Fundamentos de
 
 O projeto busca documentar não apenas os conhecimentos adquiridos sobre o tema, mas também o processo de investigação, elaboração e refinamento de prompts utilizados durante o estudo.
 
+---
 
 Contexto e objetivos
 
