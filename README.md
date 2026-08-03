@@ -1,6 +1,6 @@
-# 📚 Caderno Temático — Fundamentos de Finanças Pessoais 
+Caderno Temático — Fundamentos de Finanças Pessoais 
 
-## Sobre o projeto
+Sobre o projeto
 
 Este repositório apresenta um caderno temático de estudos sobre Fundamentos de Finanças Pessoais, desenvolvido a partir da curadoria de fontes, elaboração de perguntas estratégicas e utilização do NotebookLM como ferramenta de apoio à pesquisa e aprendizagem.
 
@@ -8,9 +8,9 @@ O projeto busca documentar não apenas os conhecimentos adquiridos sobre o tema,
 
 ---
 
-## 🎯 Contexto e objetivos
+Contexto e objetivos
 
-### Tema escolhido
+Tema escolhido
 
 Fundamentos de Finanças Pessoais
 
@@ -18,11 +18,11 @@ A Finanças Pessoais foi escolhida por sua importância para compreender como ad
 
 Além da relevância acadêmica para a área de Administração, o tema permite estabelecer a aplicação de conceitos empresariais, contábeis e financeiros para a tomada de decisão no contexto individual e familiar.
 
-### Objetivo geral
+Objetivo geral
 
 Compreender os principais conceitos relacionados à finanças pessoais e analisar como ela influencia na estabilidade econômica e tranquilidade financeira
 
-### Objetivos específicos
+Objetivos específicos
 
 * Compreender o conceito de finanças pessoais.
 * Identificar seus principais elementos.
@@ -34,7 +34,7 @@ Compreender os principais conceitos relacionados à finanças pessoais e analisa
 
 ---
 
-## 🔎 Curadoria de fontes
+Curadoria de fontes
 
 Foram selecionadas fontes acadêmicas e institucionais relacionadas à finanças pessoais, priorizando materiais com conteúdo conceitual e aplicações práticas.
 
@@ -50,7 +50,7 @@ As informações completas das fontes estão disponíveis em [`02-curadoria-de-f
 
 ---
 
-## 🤖 Engenharia de Prompts
+Engenharia de Prompts
 
 Durante o estudo foram desenvolvidas e testadas perguntas e prompts para:
 
@@ -67,7 +67,7 @@ Consulte [`03-engenharia-de-prompts/`](./03-engenharia-de-prompts/).
 
 ---
 
-## 📖 Miniguia de estudo
+Miniguia de estudo
 
 O resultado final foi consolidado em um miniguia contendo:
 
@@ -100,7 +100,7 @@ Os testes também demonstraram que respostas genéricas podem ser melhoradas por
 
 ---
 
-## 🛠️ Ferramentas utilizadas
+Ferramentas utilizadas
 
 * GitHub
 * NotebookLM
@@ -111,7 +111,7 @@ Os testes também demonstraram que respostas genéricas podem ser melhoradas por
 
 ---
 
-## 📂 Estrutura do projeto
+Estrutura do projeto
 
 ```text
 01-contexto-e-objetivos/
@@ -123,7 +123,7 @@ Os testes também demonstraram que respostas genéricas podem ser melhoradas por
 
 ---
 
-## 👤 Autor
+Autor
 
 Keven Souza de Oliveira 
 
