@@ -1,4 +1,4 @@
-<center>Caderno Temático — Fundamentos de Finanças Pessoais</center> 
+<Caderno Temático - Fundamentos de Finanças Pessoais> 
 
 Sobre o projeto
 
@@ -82,7 +82,7 @@ Consulte [`04-miniguia-de-estudo/`](./04-miniguia-de-estudo/).
 
 ---
 
-## 🧠 Principais aprendizados
+##Principais aprendizados
 
 ### Sobre o conteúdo
 
