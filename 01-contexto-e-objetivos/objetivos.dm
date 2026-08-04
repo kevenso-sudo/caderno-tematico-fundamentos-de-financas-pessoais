@@ -1,6 +1,6 @@
 # Contexto e Objetivos
 
-## **Contexto**
+## Contexto
 
 As finanças pessoais são formadas por uma complexa combinação de fatores que tornam a gestão do próprio dinheiro um grande desafio para a maior parte da população 
 Nesse contexto, compreender as finanças pessoais permite realizar escolhas financeiras inteligentes que garantam a proteção e o crescimento saudável do patrimônio
