@@ -6,6 +6,7 @@ As finanças pessoais são formadas por uma complexa combinação de fatores que
 Nesse contexto, compreender as finanças pessoais permite realizar escolhas financeiras inteligentes que garantam a proteção e o crescimento saudável do patrimônio
 
 O tema também apresenta relação direta com cultura do imediatismo, endividamento, analfabetismo financeiro, ambiente social e psicológico.
+
 ---
 
 ## 2. Problema de estudo
