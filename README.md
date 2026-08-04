@@ -44,7 +44,7 @@ Foram selecionadas fontes acadêmicas e institucionais relacionadas à finanças
 | 2 | Liliane Leopoldino Tôrres e Douglas Willyam Rodrigues Gomes - Educação Financeira e Gestão Inteligente das Finanças                                                                                     | Artigo científico      | Educação financeira e consumo consciente          |
 | 3 | Thatiany Seára da Silveira e Azevedo - Finanças Pessoais                                                                                                                                                | Monografia (TCC)       | Conceitos e fatores comportamentais e emocionais  |
 | 4 | Beatriz Tavares Silva - Gestão Financeira Pessoal: O Impacto de Decisões Efetivas                                                                                                                       | Monografia (TCC)       | Conceitos e gestão financeira                     |
-| 5 | Crislaine de Lima Feitosa, Vera Lúcia Cruz, Mayara dos Santos Silva e Luiz Antônio Félix Júnior - Um estudo sobre a utilização das ferramentas contábeis no controle orçamentário das pessoas físicas   | Artigo científico      | Ferramentas contábeis e orçamento                 |
+| 5 | Crislaine de Lima Feitosa, Vera Lúcia Cruz, Mayara dos Santos Silva e Luiz Antônio Félix Júnior - Um estudo sobre a utilização das ferramentas contábeis no controle orçamentário das pessoas físicas | Artigo científico      | Ferramentas contábeis e orçamento                 |
 
 As informações completas das fontes estão disponíveis em [`02-curadoria-de-fontes/`](./02-curadoria-de-fontes/).
 
