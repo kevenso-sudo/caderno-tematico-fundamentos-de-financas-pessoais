@@ -74,7 +74,7 @@ Durante o estudo, poupar e investir apareceram frequentemente relacionados.
 
 Foi criado um prompt específico de comparação:
 
-> Compare poupar e investir. Apresente definição, diferenças, relação entre os conceitos e um exemplo prático.
+Compare poupar e investir. Apresente definição, diferenças, relação entre os conceitos e um exemplo prático.
 
 ### Resultado
 
