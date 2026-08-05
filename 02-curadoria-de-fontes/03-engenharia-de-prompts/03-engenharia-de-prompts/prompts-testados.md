@@ -1,10 +1,10 @@
-# 🤖 Prompts Testados
+# Prompts Testados
 
 ## Experimento 01 — Pergunta inicial
 
 ### Prompt v1
 
-> Explique o que é finanças pessoais.
+Explique o que é finanças pessoais.
 
 ### Resultado
 
@@ -24,17 +24,17 @@ Perguntas muito abertas podem produzir respostas corretas, mas pouco úteis para
 
 ### Prompt v2
 
-> Com base nas fontes disponíveis, explique finanças pessoais.
->
-> Organize a resposta em:
->
-> 1. definição;
-> 2. principais elementos;
-> 3. educação das finanças;
-> 4. exemplos práticos;
-> 5. importância para os indivíduos.
->
-> Indique as fontes utilizadas em cada seção.
+Com base nas fontes disponíveis, explique finanças pessoais.
+
+ Organize a resposta em:
+
+ 1. definição;
+ 2. principais elementos;
+ 3. educação das finanças;
+ 4. exemplos práticos;
+ 5. importância para os indivíduos.
+
+Indique as fontes utilizadas em cada seção.
 
 ### Resultado
 
@@ -54,20 +54,20 @@ O prompt especificou tanto a estrutura quanto a necessidade de relacionar as inf
 
 ### Prompt v3
 
-> Com base exclusivamente nas fontes disponíveis, faça uma revisão sobre finanças pessoais.
->
-> Primeiro, apresente um resumo estruturado.
->
-> Em seguida, crie 10 perguntas para testar minha compreensão, sem apresentar as respostas.
->
-> Distribua as perguntas entre:
->
-> * conceitos;
-> * comparação;
-> * aplicação;
-> * análise.
->
-> Depois que eu responder, avalie minhas respostas e identifique quais conceitos preciso revisar.
+ Com base exclusivamente nas fontes disponíveis, faça uma revisão sobre finanças pessoais.
+
+ Primeiro, apresente um resumo estruturado.
+
+ Em seguida, crie 10 perguntas para testar minha compreensão, sem apresentar as respostas.
+
+ Distribua as perguntas entre:
+
+ * conceitos;
+ * comparação;
+ * aplicação;
+ * análise.
+
+ Depois que eu responder, avalie minhas respostas e identifique quais conceitos preciso revisar.
 
 ### Resultado
 
