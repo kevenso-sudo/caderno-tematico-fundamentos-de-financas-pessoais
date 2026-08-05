@@ -10,7 +10,7 @@ Transformar os objetivos de estudo em perguntas que permitam explorar o tema pro
 
 **Pergunta:**
 
-> O que é finanças pessoais e quais são seus principais elementos?
+>  O que é finanças pessoais e quais são seus principais elementos?
 
 **Objetivo:**
 
@@ -22,7 +22,7 @@ Despertar o senso crítico e o autoconhecimento necessários para assumir o coma
 
 **Pergunta:**
 
-> Como os valores, crenças, normas e comportamentos influenciam nas suas finanças pessoais?
+>  Como os valores, crenças, normas e comportamentos influenciam nas suas finanças pessoais?
 
 **Objetivo:**
 
@@ -34,7 +34,7 @@ Questionar e analisar esses fatores comportamentais é o desenvolvimento do auto
 
 **Pergunta:**
 
-> Qual é a diferença entre entre poupar e investir?
+>  Qual é a diferença entre entre poupar e investir?
 
 **Objetivo:**
 
@@ -46,7 +46,7 @@ Evitar confusão entre dois conceitos frequentemente relacionados.
 
 **Pergunta:**
 
-> Como as finanças pessoais pode influenciar a tomada de decisão dos indivíduos?
+>  Como as finanças pessoais pode influenciar a tomada de decisão dos indivíduos?
 
 **Objetivo:**
 
@@ -58,7 +58,7 @@ Despertar o autoconhecimento e desenvolver a maturidade financeira do indivíduo
 
 **Pergunta:**
 
-> Quais características das finanças pessoais podem favorecer ou prejudicar o orçamento de um pessoa?
+>  Quais características das finanças pessoais podem favorecer ou prejudicar o orçamento de um pessoa?
 
 **Objetivo:**
 
