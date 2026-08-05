@@ -1,4 +1,4 @@
-# 🧠 Perguntas Estratégicas
+# Perguntas Estratégicas
 
 ## Objetivo
 
