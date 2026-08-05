@@ -2,7 +2,7 @@
 
 ## Experimento 01 — Pergunta inicial
 
-### Prompt v1
+### Prompt 1
 
 Explique o que é finanças pessoais.
 
@@ -22,7 +22,7 @@ Perguntas muito abertas podem produzir respostas corretas, mas pouco úteis para
 
 ## Experimento 02 — Estrutura obrigatória
 
-### Prompt v2
+### Prompt 2
 
 Com base nas fontes disponíveis, explique finanças pessoais.
 
@@ -52,7 +52,7 @@ O prompt especificou tanto a estrutura quanto a necessidade de relacionar as inf
 
 ## Experimento 03 — Aprendizagem ativa
 
-### Prompt v3
+### Prompt 3
 
  Com base exclusivamente nas fontes disponíveis, faça uma revisão sobre finanças pessoais.
 
