@@ -60,9 +60,9 @@ As fontes foram selecionadas considerando:
 
 **Obra:** Gestão Financeira Pessoal: O Impacto de Decisões Efetivas.
 
-**Autor:** Beatriz Tavares Silva
+**Autor:** Beatriz Tavares Silva.
 
-**Tipo:** Monografia (TCC)
+**Tipo:** Monografia (TCC).
 
 **Contribuição:** Fatores que determinam o sucesso ou o fracasso financeiro da população brasileira.
 
@@ -75,9 +75,9 @@ As fontes foram selecionadas considerando:
 
 **Obra:** Um estudo sobre a utilização das ferramentas contábeis no controle orçamentário das pessoas físicas.
 
-**Autor:** Crislaine de Lima Feitosa, Vera Lúcia Cruz, Mayara dos Santos Silva e Luiz Antônio Félix Júnior
+**Autor:** Crislaine de Lima Feitosa, Vera Lúcia Cruz, Mayara dos Santos Silva e Luiz Antônio Félix Júnior.
 
-**Tipo:** Artigo Científico
+**Tipo:** Artigo Científico.
 
 **Contribuição:**  Ferramentas contábeis tradicionalmente utilizadas no ambiente corporativo podem ser perfeitamente adaptadas e aplicadas pelas pessoas físicas em seu planejamento financeiro.
 
