@@ -41,56 +41,62 @@ As finanças pessoais pode ser influenciada por diversos fatores
 * pressão do marketing e redes sociais;
 * significados atribuídos ao dinheiro;
 * macroeconomia;
-  acesso facilitado ao crédito.
+* acesso facilitado ao crédito.
 
 ---
 
-## 4. Cultura e liderança
+## 4. Ferramentas Contábeis e finanças
 
-A liderança pode contribuir para a manutenção ou transformação da cultura por meio de decisões, comportamentos, comunicação e sistemas de recompensa.
+A contabilidade fornece informações estruturadas de  dados reais e verificáveis, permitindo que o indivíduo tome decisões financeiras lógicas e conscientes.
 
-O comportamento dos líderes pode transmitir mensagens sobre aquilo que é realmente valorizado pela organização.
+A utilização contínua e disciplinada dessas ferramentas transforma o indivíduo em um gestor do próprio dinheiro, garantindo a construção segura e sustentável do seu futuro.
 
 ---
 
-## 5. Cultura x clima organizacional
+## 5. Poupar x investir
 
 Embora relacionados, os conceitos não são iguais.
 
-**Cultura organizacional:** está relacionada aos padrões, valores, crenças e práticas compartilhados dentro da organização.
+**Poupar:** consiste em determinar, de forma disciplinada, qual parcela da sua riqueza atual não será gasta no consumo presente para ser guardada para o futuro.
 
-**Clima organizacional:** está mais relacionado à percepção das pessoas sobre o ambiente de trabalho em determinado período.
+**Investir:** consiste em aplicar o dinheiro que foi poupado em instrumentos ou produtos financeiros com a expectativa de que eles gerem rendimentos positivos.
 
 ---
 
-## 6. Cultura e desempenho
+## 6. Finanças e inflação
 
-Uma cultura pode influenciar a maneira como os funcionários trabalham, colaboram, tomam decisões e respondem a mudanças.
+A inflação afeta as decisões financeiras principalmente porque corrói o poder de compra do dinheiro ao longo do tempo, exigindo que as escolhas de poupança, investimento e consumo sejam estrategicamente ajustadas para evitar perdas reais de patrimônio.
 
-Entretanto, não existe necessariamente uma cultura universalmente "boa". A adequação da cultura depende também dos objetivos, contexto e características da organização.
+Portanto, em qualquer decisão financeira ou elaboração de orçamento, a inflação deve ser levada em conta para que você escolha aplicações que garantam um ganho real e ajuste seus hábitos de consumo diante do encarecimento do custo de vida.
 
 ---
 
 ## 7. Aplicação prática
 
-Imagine uma empresa que afirma valorizar inovação, mas pune funcionários quando experimentos não produzem os resultados esperados.
+O Orçamento Base Zero (OBZ) é um modelo de planejamento financeiro que possui como principal objetivo avaliar a forma mais eficiente de utilizar os recursos disponíveis partindo, literalmente, do zero
 
-Existe uma possível diferença entre:
+Apresento uma aplicação prática dividida em etapas:
 
-**Cultura declarada:** "Valorizamos inovação."
+**Esqueça o passado e defina a sua Renda Base:** Zere as suas planilhas anteriores.
 
-**Prática observada:** "Evite correr riscos."
+**Defina tetos de gastos ideais (Planejamento Estratégico):**  Como você não vai se basear nos excessos do mês passado, você deve criar limites percentuais ideais para o seu dinheiro.
 
-Esse exemplo demonstra como comportamentos e sistemas organizacionais podem transmitir mensagens diferentes dos discursos oficiais.
+**Distribuição Financeira (O novo Orçamento)** Agora, pegamos a renda base e dividimos rigorosamente dentro desses novos limites, ignorando se no passado você gastava mais do que isso.
+
+**Execução e Adequação Forçada** Se no mês passado você gastava R$ 1.500,00 com "Gastos Essenciais" devido a desperdícios no supermercado ou pacotes de internet caros, o Orçamento Base Zero te obriga a readequar a sua vida para o novo teto de R$ 1.274,00.
+
+**Controle Contínuo (Fluxo de Caixa)** Para garantir que esse novo formato seja cumprido, é fundamental usar uma ferramenta de Fluxo de Caixa. Você deve registrar cada saída de dinheiro diariamente ou semanalmente.
+
+Esse exemplo demonstra como constrói um orçamento focado inteiramente no que é ideal e estratégico para os seus objetivos de vida.
 
 ---
 
 ## 8. Pontos-chave para revisão
 
-* Cultura envolve padrões compartilhados.
-* Valores e comportamentos estão relacionados.
-* Liderança influencia a cultura.
-* Cultura e clima não são sinônimos.
-* Práticas organizacionais podem reforçar ou contradizer valores declarados.
-* Mudanças culturais envolvem mudanças de comportamento e práticas.
+* A educação financeira envolve controle comportamental e formação de hábitos sustentáveis.
+* Emoções, crenças e gatilhos psicológicos influenciam as decisões de consumo.
+* Ferramentas contábeis aplicam-se diretamente à gestão das finanças pessoais.
+* Poupar e investir não são sinônimos.
+* A facilidade de acesso ao crédito e o imediatismo podem agravar o endividamento.
+* Mudanças financeiras exigem disciplina, constância e a adoção de novas práticas de planejamento.
 
