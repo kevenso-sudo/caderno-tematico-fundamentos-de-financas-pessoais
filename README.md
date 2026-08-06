@@ -113,13 +113,13 @@ Os testes também demonstraram que respostas genéricas podem ser melhoradas por
 
 ## Estrutura do projeto
 
-```text
+
 01-contexto-e-objetivos/
 02-curadoria-de-fontes/
 03-engenharia-de-prompts/
 04-miniguia-de-estudo/
 05-evidencias/
-```
+
 
 ---
 
