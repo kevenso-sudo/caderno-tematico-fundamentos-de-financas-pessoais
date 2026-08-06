@@ -14,8 +14,6 @@ trata-se de uma disciplina que estuda como aplicar conceitos financeiros e empre
 
 Determinam de forma consciente o quanto da riqueza e da renda atual deve ser gasto no presente para a manutenção do padrão de vida e o quanto deve ser economizado (poupado) para o futuro.
 
-**Exemplo:** .
-
 ### Decisões de investimento
 
 Definem as melhores formas e produtos para aplicar as sobras do orçamento, multiplicando o capital.
