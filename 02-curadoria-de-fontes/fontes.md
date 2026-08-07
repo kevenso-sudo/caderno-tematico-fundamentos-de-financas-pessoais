@@ -44,7 +44,7 @@ As fontes foram selecionadas considerando:
 
 ## Fonte 3 — Universidade Federal do Rio de Janeiro (UFRJ)
 
-**Obra:** Finanças pessoais: Uma Análise sobre a Gestão Financeira Pessoal dos Indivíduos e dos Fatores que Influenciam na Toamada de Decisões Fianaceiras.
+**Obra:** Finanças pessoais: Uma Análise sobre a Gestão Financeira Pessoal dos Indivíduos e dos Fatores que Influenciam na Tomada de Decisões Fianaceiras.
 
 **Autor:** Thatiany Seára da Silveira e Azevedo.
 
