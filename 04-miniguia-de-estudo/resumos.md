@@ -71,7 +71,7 @@ Portanto, em qualquer decisão financeira ou elaboração de orçamento, a infla
 
 ## 7. Aplicação prática
 
-O Orçamento Base Zero (OBZ) é um modelo de planejamento financeiro que possui como principal objetivo avaliar a forma mais eficiente de utilizar os recursos disponíveis partindo, literalmente, do zero
+O Orçamento Base Zero (OBZ) é um modelo de planejamento financeiro que possui como principal objetivo avaliar a forma mais eficiente de utilizar os recursos disponíveis partindo, literalmente, do zero.
 
 Apresento uma aplicação prática dividida em etapas:
 
