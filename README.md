@@ -20,7 +20,7 @@ Além da relevância acadêmica para a área de Administração, o tema permite 
 
 ### Objetivo geral
 
-Compreender os principais conceitos relacionados à finanças pessoais e analisar como ela influencia na estabilidade econômica e tranquilidade financeira
+Compreender os principais conceitos relacionados às finanças pessoais e analisar como ela influencia na estabilidade econômica e tranquilidade financeira.
 
 ### Objetivos específicos
 
