@@ -20,7 +20,7 @@ A resposta ficou mais adequada para utilização como material de estudo.
 
 ### Aprendizado
 
-**Definir a estrutura esperada reduz respostas genéricas.**
+Definir a estrutura esperada reduz respostas genéricas.
 
 ---
 
@@ -40,7 +40,7 @@ A rastreabilidade das informações melhorou.
 
 ### Aprendizado
 
-**Solicitar referências explicitamente aumenta a capacidade de verificar a resposta.**
+Solicitar referências explicitamente aumenta a capacidade de verificar a resposta.
 
 ---
 
@@ -60,7 +60,7 @@ O conteúdo ficou mais focado.
 
 ### Aprendizado
 
-**Um prompt eficiente precisa controlar o escopo da resposta.**
+Um prompt eficiente precisa controlar o escopo da resposta.
 
 ---
 
@@ -82,7 +82,7 @@ A comparação facilitou a identificação das diferenças.
 
 ### Aprendizado
 
-**Quando dois conceitos são facilmente confundidos, um prompt comparativo pode ser mais eficiente do que estudar cada conceito isoladamente.**
+Quando dois conceitos são facilmente confundidos, um prompt comparativo pode ser mais eficiente do que estudar cada conceito isoladamente.
 
 ---
 
