@@ -14,7 +14,7 @@ O projeto busca documentar não apenas os conhecimentos adquiridos sobre o tema,
 
 Fundamentos de Finanças Pessoais
 
-A Finanças Pessoais foi escolhida por sua importância para compreender como administrar o próprio dinheiro possa garantir estabilidade econômica, segurança e qualidade de vida, impactando positivamente diversas área do cotodiano.
+A Finanças Pessoais foi escolhida por sua importância para compreender como administrar o próprio dinheiro possa garantir estabilidade econômica, segurança e qualidade de vida, impactando positivamente diversas área do cotidiano.
 
 Além da relevância acadêmica para a área de Administração, o tema permite estabelecer a aplicação de conceitos empresariais, contábeis e financeiros para a tomada de decisão no contexto individual e familiar.
 
