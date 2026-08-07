@@ -88,5 +88,3 @@ Apresento uma aplicação prática dividida em etapas:
 Esse exemplo demonstra como constrói um orçamento focado inteiramente no que é ideal e estratégico para os seus objetivos de vida.
 
 ---
-
-## 8. Pontos-chave para revisão
