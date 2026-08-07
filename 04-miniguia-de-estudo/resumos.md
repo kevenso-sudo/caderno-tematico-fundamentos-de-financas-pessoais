@@ -4,7 +4,7 @@
 
 Finanças pessoais referem-se à administração do dinheiro de um indivíduo ou de uma família, um processo que abrange o planejamento, o controle de receitas e despesas, a formação de poupança, a realização de investimentos e a gestão de dívidas.
 
-trata-se de uma disciplina que estuda como aplicar conceitos financeiros e empresariais nas decisões cotidianas, adequando o planejamento financeiro às necessidades, prioridades e às diferentes fases da vida de cada pessoa.
+Trata-se de uma disciplina que estuda como aplicar conceitos financeiros e empresariais nas decisões cotidianas, adequando o planejamento financeiro às necessidades, prioridades e às diferentes fases da vida de cada pessoa.
 
 ---
 
