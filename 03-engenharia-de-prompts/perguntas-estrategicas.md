@@ -12,7 +12,7 @@ O que é finanças pessoais e quais são seus principais elementos?
 
 **Objetivo:**
 
-Despertar o senso crítico e o autoconhecimento necessários para assumir o comando da própria vida econômica
+Despertar o senso crítico e o autoconhecimento necessários para assumir o comando da própria vida econômica.
 
 ---
 
@@ -22,7 +22,7 @@ Como os valores, crenças, normas e comportamentos influenciam nas suas finança
 
 **Objetivo:**
 
-Questionar e analisar esses fatores comportamentais é o desenvolvimento do autoconhecimento financeiro e do senso crítico
+Questionar e analisar esses fatores comportamentais é o desenvolvimento do autoconhecimento financeiro e do senso crítico.
 
 ---
 
