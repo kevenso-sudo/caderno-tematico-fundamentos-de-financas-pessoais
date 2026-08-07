@@ -36,7 +36,7 @@ Compreender os principais conceitos relacionados às finanças pessoais e analis
 
 ## Curadoria de fontes
 
-Foram selecionadas fontes acadêmicas e institucionais relacionadas à finanças pessoais, priorizando materiais com conteúdo conceitual e aplicações práticas.
+Foram selecionadas fontes acadêmicas e institucionais relacionadas às finanças pessoais, priorizando materiais com conteúdo conceitual e aplicações práticas.
 
 | # | Fonte                                                                                                                                                                                                   | Tipo                   | Principal contribuição                            |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------- |
